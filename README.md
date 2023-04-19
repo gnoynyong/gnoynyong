@@ -1,7 +1,7 @@
 Yo, listen up, I'm a programmer, here to drop some rhymes <br><br>
 Got skills that'll blow your mind, make you think it's summertime <br>
 I code all day, and I code all night <br>
-Building websites, apps, and software that's tight<br><br>
+Building websites, apps, and software that's tight<br>
 
 I'm always up on the latest trends, reading TechCrunch like it's my Bible<br>
 Scouring GitHub for projects that are vital<br>
