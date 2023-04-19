@@ -1,4 +1,4 @@
-Yo, listen up, I'm a programmer, here to drop some rhymes <br>
+Yo, listen up, I'm a programmer, here to drop some rhymes <br><br>
 Got skills that'll blow your mind, make you think it's summertime <br>
 I code all day, and I code all night <br>
 Building websites, apps, and software that's tight<br><br>
