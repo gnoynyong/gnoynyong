@@ -13,8 +13,4 @@ I debug like a machine, making everything pristine<br>
 I'm the master of the programming scene<br>
 And I won't stop until I reach my dream<br>
 
-So if you need a programmer with some serious game<br>
-Someone who can code circles around the rest, without any shame<br>
-Look no further, 'cause I'm your man<br>
-I'll make your software sing, and your website slam!<br>
 
