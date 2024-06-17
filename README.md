@@ -1,3 +1,3 @@
-Game Coffee and Code
+Game, Coffee and Code
 
 
